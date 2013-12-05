@@ -8,7 +8,7 @@ a.btn {
   box-shadow: none !important;
   webkit-box-shadow: none !important;
   width: 300px;
-  max-width: 200px;
+  max-width: 230px;
 }
 
 .hidden {
@@ -19,7 +19,7 @@ a.btn {
 .activate {
   height: 80px !important;
   padding-top: 24px;
-  width: 200px !important;
+  width: 230px !important;
   margin: 20px;
   font-size: 22px;
   display: inline-block !important;
