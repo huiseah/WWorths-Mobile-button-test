@@ -71,11 +71,12 @@ a.mobile-number {
   opacity: 0.5;
 }
 
-span.glyphicon-play-circle{
+img.go-icon {
   position: absolute;
   left: 157px;
   top: 25px;
   display: inline-block;
-  font-size: 25px;
+  width: 30px;
+  height: 30px;
   color: orange;
 }
