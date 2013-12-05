@@ -70,3 +70,12 @@ a.mobile-number {
 .opaque {
   opacity: 0.5;
 }
+
+span.glyphicon-play-circle{
+  position: absolute;
+  left: 157px;
+  top: 25px;
+  display: inline-block;
+  font-size: 25px;
+  color: orange;
+}
